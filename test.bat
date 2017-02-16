@@ -1,0 +1,2 @@
+echo lalala
+::pause
